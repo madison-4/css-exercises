@@ -7,9 +7,11 @@ html, body {
 body {
   font-family: Roboto, sans-serif;
   margin: 0;
+  border: 200 paleturquoise;
+  padding: 600;
   background: #aaa;
   color: #333;
-  /* I'll give you this one for free lol */
+  /* I'll give you this one for free lol  ha ha very funny*/
   display: flex;
   align-items: center;
   justify-content: center;
@@ -22,6 +24,13 @@ body {
   box-shadow: 2px 4px 16px rgba(0,0,0,.2);
 }
 
+.header {
+  font-weight: bolder;
+}
+.topbar {
+  display: flex;
+  justify-content: space-between;
+}
 .icon {
   color: royalblue;
   font-size: 26px;
