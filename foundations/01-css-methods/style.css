@@ -1,5 +1,8 @@
-*div {
-    background-color: green;
-    font-size: 16;
-    font-family: 'Times New Roman';
+div 
+{
+    background-color: red;
+    color: white;
+    font-size: 32px;
+    text-align: center;
+    font-weight: bold;
 }
