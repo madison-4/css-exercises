@@ -1,7 +1,18 @@
 .odd {
-    background-color: light red, pink;
+    background-color: pink;
     text-align: center;
-    font-size: 24px;
     font-weight: 300;
     font-family: Verdana,"DejaVu-sans", sans-serif;
+}
+#second {
+    color: blue;
+    font-size: 36px;
+}
+#third {
+    font-size: 24px;
+}
+#fourth {
+    font-size: 24px;
+    background-color: lightgreen;
+    font-weight: bold;
 }
